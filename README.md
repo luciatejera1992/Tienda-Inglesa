@@ -1,4 +1,4 @@
-# 📊 Análisis de Datos – Supermercado Tienda Inglesa
+# 📊 Análisis de Datos – Tienda Inglesa
 
 Proyecto de **Análisis Exploratorio de Datos (EDA)** basado en un dataset de tipo *Sample Superstore*, enfocado en el estudio del comportamiento de ventas, estacionalidad y rendimiento por categoría.  
 El análisis está orientado a la **preparación de datos y visualizaciones para Power BI**, combinando trabajo en **Python** y **Jupyter Notebook**.
@@ -76,7 +76,7 @@ df = pd.read_csv('TiendaInglesa:PowerBi/train 2.csv', parse_dates=['Order Date',
 - Observación: la carpeta contiene dos puntos (`:`) en su nombre; esto puede provocar problemas en Windows o al exportar. Recomendado renombrarla a `TiendaInglesa-PowerBi` si se comparte fuera de macOS.
 
 
-📊 Ejemplos de rnálisis realizados
+📊 Ejemplos de análisis realizados
 
 Ventas por año/mes y por `Region`.
 Top productos y categorías por ventas y margen (si se añade columna de coste).
@@ -84,4 +84,11 @@ Comparativa de ventas por región.
 Análisis de rendimiento por categoría y subcategoría.
 Identificación de productos con mayor volumen de ventas.
 
+---
+
+
+
+Lucía Tejera
+Analista de Datos Junior
+LinkedIn: https://linkedin.com/in/lucia-tejera
 
