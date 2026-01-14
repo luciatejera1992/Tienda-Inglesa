@@ -1,19 +1,51 @@
-# Tienda Inglesa
+# 📊 Análisis de Datos – Supermercado Tienda Inglesa
 
-Proyecto sobre Tienda Inglesa EDA y visualizaciones listos para Power BI y trabajo en Python.
+Proyecto de **Análisis Exploratorio de Datos (EDA)** basado en un dataset de tipo *Sample Superstore*, enfocado en el estudio del comportamiento de ventas, estacionalidad y rendimiento por categoría.  
+El análisis está orientado a la **preparación de datos y visualizaciones para Power BI**, combinando trabajo en **Python** y **Jupyter Notebook**.
 
-Resumen rápido
-- Dataset: `TiendaInglesa:PowerBi/train 2.csv` (~9.800 filas, 22 columnas).
-- Análisis: `TiendaInglesa:PowerBi/BBDD.eda.ipynb` (notebook Jupyter con análisis exploratorio y gráficos).
-- Imagen de apoyo: `TiendaInglesa:PowerBi/Sin título-2025-11-24-2120.png`.
+Este repositorio forma parte de mi portfolio como **Analista de Datos Junior**, con foco en visualización, análisis y comunicación de insights.
 
+---
 
-Este proyecto recopila un dataset tipo "Sample - Superstore" (pedidos y ventas) para explorar comportamiento de ventas, estacionalidad, rendimiento por categoría y preparación de dashboards en Power BI.
+## 📌 Resumen del Proyecto
 
-Qué encontrarás (ejemplos de columnas)
-- `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`
-- `Customer ID`, `Customer Name`, `Segment`, `Region`
-- `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`
+- **Dataset:** `TiendaInglesa:PowerBi/train 2.csv`  
+  (~9.800 filas, 22 columnas)
+- **Análisis principal:**  
+  `TiendaInglesa:PowerBi/BBDD.eda.ipynb` (EDA completo con gráficos)
+- **Imagen de apoyo:**  
+  `TiendaInglesa:PowerBi/Sin título-2025-11-24-2120.png`
+
+El dataset contiene información de pedidos y ventas (clientes, productos, fechas, regiones y segmentos), lo que permite analizar patrones comerciales y preparar dashboards orientados a negocio.
+
+---
+
+## 🧠 Objetivos del Análisis
+
+- Comprender la estructura y calidad del dataset.
+- Analizar el comportamiento de ventas a lo largo del tiempo.
+- Evaluar el rendimiento por **categoría**, **subcategoría** y **región**.
+- Detectar patrones de estacionalidad.
+- Preparar datos limpios y estructurados para su uso en **Power BI**.
+- Generar visualizaciones claras y accionables.
+
+---
+
+## 🧰 Tecnologías y herramientas utilizadas
+
+- **Python**
+  - pandas (manipulación y limpieza de datos)
+  - matplotlib & seaborn (visualización)
+- **Jupyter Notebook**
+  - Análisis exploratorio paso a paso
+- **Power BI**
+  - Preparación de datos para dashboards y reporting
+- **Git / GitHub**
+  - Versionado y documentación del proyecto
+
+---
+
+## 📁 Estructura del Proyecto
 
 Primeros pasos (rápido)
 1. Clona el repo y navega a la carpeta raíz.
@@ -43,8 +75,13 @@ df = pd.read_csv('TiendaInglesa:PowerBi/train 2.csv', parse_dates=['Order Date',
 - Si hay problemas con caracteres, prueba `encoding='latin-1'`.
 - Observación: la carpeta contiene dos puntos (`:`) en su nombre; esto puede provocar problemas en Windows o al exportar. Recomendado renombrarla a `TiendaInglesa-PowerBi` si se comparte fuera de macOS.
 
-Ideas rápidas para análisis (valor inmediato)
-- Ventas por año/mes y por `Region`.
-- Top productos y categorías por ventas y margen (si se añade columna de coste).
-- Tiempo entre `Order Date` y `Ship Date` (lead time) y su impacto en satisfacción/segmento.
+
+📊 Ejemplos de rnálisis realizados
+
+Ventas por año/mes y por `Region`.
+Top productos y categorías por ventas y margen (si se añade columna de coste).
+Comparativa de ventas por región.
+Análisis de rendimiento por categoría y subcategoría.
+Identificación de productos con mayor volumen de ventas.
+
 
