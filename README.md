@@ -7,7 +7,7 @@ Resumen rápido
 - Análisis: `TiendaInglesa:PowerBi/BBDD.eda.ipynb` (notebook Jupyter con análisis exploratorio y gráficos).
 - Imagen de apoyo: `TiendaInglesa:PowerBi/Sin título-2025-11-24-2120.png`.
 
-Por qué este repo
+
 Este proyecto recopila un dataset tipo "Sample - Superstore" (pedidos y ventas) para explorar comportamiento de ventas, estacionalidad, rendimiento por categoría y preparación de dashboards en Power BI.
 
 Qué encontrarás (ejemplos de columnas)
