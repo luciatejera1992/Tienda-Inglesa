@@ -89,6 +89,8 @@ Identificación de productos con mayor volumen de ventas.
 
 
 Lucía Tejera
+ 
 Analista de Datos Junior
+ 
 LinkedIn: https://linkedin.com/in/lucia-tejera
 
