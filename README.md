@@ -85,8 +85,11 @@ Análisis de rendimiento por categoría y subcategoría.
 Identificación de productos con mayor volumen de ventas.
 
 ---
+## 📊 Power BI Dashboard
 
+[![View Power BI Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/71eddc4f-25bd-4d3f-a741-229717deea63/reports/0cfec1fc-1696-4e80-a6f7-825c4ae84e2c/01d379cfb5a220e75723?experience=power-bi)
 
+---
 
 Lucía Tejera
  
@@ -94,7 +97,4 @@ Analista de Datos Junior
  
 LinkedIn: https://linkedin.com/in/lucia-tejera
 
-## 📊 Power BI Dashboard
-
-[![View Power BI Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/71eddc4f-25bd-4d3f-a741-229717deea63/reports/0cfec1fc-1696-4e80-a6f7-825c4ae84e2c/01d379cfb5a220e75723?experience=power-bi)
 
