@@ -7,7 +7,7 @@ Este repositorio forma parte de mi portfolio como **Analista de Datos Junior**, 
 
 ---
 
-## 📌 Resumen del Proyecto
+## Resumen del Proyecto
 
 - **Dataset:** `TiendaInglesa:PowerBi/train 2.csv`  
   (~9.800 filas, 22 columnas)
@@ -20,7 +20,7 @@ El dataset contiene información de pedidos y ventas (clientes, productos, fecha
 
 ---
 
-## 🧠 Objetivos del Análisis
+##  Objetivos del Análisis
 
 - Comprender la estructura y calidad del dataset.
 - Analizar el comportamiento de ventas a lo largo del tiempo.
@@ -31,7 +31,7 @@ El dataset contiene información de pedidos y ventas (clientes, productos, fecha
 
 ---
 
-## 🧰 Tecnologías y herramientas utilizadas
+## Tecnologías y herramientas utilizadas
 
 - **Python**
   - pandas (manipulación y limpieza de datos)
@@ -45,7 +45,7 @@ El dataset contiene información de pedidos y ventas (clientes, productos, fecha
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 Primeros pasos (rápido)
 1. Clona el repo y navega a la carpeta raíz.
